@@ -22,6 +22,8 @@ Output:
       (sibling of the images folder), alongside the PPTX intake bundle
 """
 
+import utils.transport
+import utils.session
 import argparse
 import json
 import os
